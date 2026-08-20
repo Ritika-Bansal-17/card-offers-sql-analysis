@@ -30,7 +30,7 @@ I wrote a set of queries, each answering a specific business question:
 
 - `schema.sql` — creates the database and 4 tables
 - `data/` — the 4 CSV files (card_members, merchants, offers, redemptions) to import
-- `analysis_queries.sql` — all 8 queries with comments explaining what each one does
+- `analysis_queries.sql` — all 9 queries with comments explaining what each one does
 - This README
 
 ## How the data is structured
