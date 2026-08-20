@@ -1,0 +1,16 @@
+merchant_id,merchant_name,category,city
+1,Café Mocha,Dining,Delhi
+2,Urban Bites,Dining,Mumbai
+3,Spice Route,Dining,Bangalore
+4,FreshMart,Grocery,Delhi
+5,DailyNeeds Grocery,Grocery,Pune
+6,StyleHub Fashion,Retail,Mumbai
+7,TrendZone,Retail,Chennai
+8,ElectroWorld,Retail,Hyderabad
+9,SkyWings Travel,Travel,Delhi
+10,HorizonTrips,Travel,Bangalore
+11,CineMax,Entertainment,Mumbai
+12,GameZone Arcade,Entertainment,Pune
+13,BrewHouse Café,Dining,Chandigarh
+14,QuickCart Grocery,Grocery,Gurgaon
+15,FitLife Gym,Entertainment,Ludhiana
